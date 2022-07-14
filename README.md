@@ -7,4 +7,4 @@
 <!---
 Jole27/Jole27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> Hola mi nombre es Jole y me gusta el color negro me gusta mucho todo vlo que tenga que ver con tecnología 
+---> Hola mi nombre es Jole y me gusta el color negro me gusta mucho todo lo que tenga que ver con tecnología mi propósito es logra y poner algún dentro de cómputo en el cual yo pud impartir mis conocimientos 
